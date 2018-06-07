@@ -1,0 +1,10 @@
+char *CMDNames_[Iterm_CMD_TOTAL]=
+{
+    "Sleep",
+     "ALL_Test",
+     "RUN",
+     "Right",
+     "Right",
+    "Right",
+    "Right"  
+};
